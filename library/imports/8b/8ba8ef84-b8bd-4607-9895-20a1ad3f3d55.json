@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "荷兰",
+    "texture": "188e5ac1-ce9e-40c3-b753-19a1323b8d37",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

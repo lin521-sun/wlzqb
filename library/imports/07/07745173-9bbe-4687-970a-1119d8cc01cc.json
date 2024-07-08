@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gocbl",
+    "texture": "64a38fc3-9d2a-4977-aaae-2de4f55c52cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      31
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      98,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

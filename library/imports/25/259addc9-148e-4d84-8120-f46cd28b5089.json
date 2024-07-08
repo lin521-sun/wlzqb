@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Paper-06",
+    "texture": "56ff7cbf-09e7-4e52-aa58-685781110683",
+    "atlas": "",
+    "rect": [
+      16,
+      27,
+      66,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

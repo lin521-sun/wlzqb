@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hongpai",
+    "texture": "6c4a5d23-4c83-4055-928b-316d52729a18",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      151
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      151
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+<div id="warp" class="warp">
+
+    <ui-prop name="指定场景or预制(可选):" tooltip="只在指定的场景或预制中查找" style="height: 43px; display: flex;">
+        <ui-asset type="native-asset" v-value="prefabUuid" class="flex-1">
+        </ui-asset>
+    </ui-prop>
+
+    <ui-prop name="assets:" tooltip="直接拖动资源查询" style="height: 43px; display: flex;">
+        <ui-asset type="native-asset" v-value="assetUuid" class="flex-1">
+        </ui-asset>
+    </ui-prop>
+
+    <ui-prop name="脚本名:" tooltip="区分大小写,模糊查询后点击右边的下拉框选择符合的脚本">
+        <ui-input class="flex-1" v-value="inputName" v-on:confirm="onInputName"></ui-input>
+        <ui-select class="flex-1" v-value="compName" v-on:change="onSelected">
+            <template v-for="item in compNames">
+                <option v-bind:value="item">{{item}}</option>
+            </template>
+        </ui-select>
+    </ui-prop>
+
+    <ui-prop name="额外参数" tooltip="对匹配到的资源增加参数对比">
+        <div class="layout horizontal center flex-1 ">
+            <ui-checkbox v-bind:checked="isNeedParam" v-on:change="onNeedParam"></ui-checkbox>
+        </div>
+    </ui-prop>
+    <ui-prop name="" v-show="isNeedParam">
+        <div class="layout horizontal center flex-1 ">参数名
+            <ui-input class="flex-1" v-value="paramName"></ui-input>
+        </div>
+        <div class="layout horizontal center flex-1 ">参数值
+            <ui-input class="flex-1" v-value="paramValue"></ui-input>
+        </div>
+    </ui-prop>
+
+    <ui-prop name="">
+        <div class="self-end layout center horizontal">
+            
+            <ui-button class="self-end green" v-on:confirm="onRefresh">刷新</ui-button>
+            <ui-button v-on:confirm="onClean">清除</ui-button>
+        </div>
+    </ui-prop>
+
+    <ui-prop name="双条件查询:" tooltip="既含有特定脚本又含有特定资源">
+        <div class="layout horizontal center flex-1 ">
+            <ui-button class="self-end blue" v-on:confirm="onDoubleSearch">双条件查询</ui-button>
+        </div>
+    </ui-prop>
+
+    <ui-prop>
+    <div class>{{resultTip}}</div>
+    </ui-prop>
+
+    <section>
+        <ul>
+            <li>
+                <div class="scene">场景or预制</div>
+                <div class="path">路径</div>
+                <div class="controller">操作</div>
+            </li>
+            <li v-for="item in items">
+                <div class="scene" :title="item.scene">{{item.scene}}</div>
+                <div class="path" :title="item.path">{{item.path}}</div>
+                <div class="controller">
+                    <!-- <i class="fa fa-file" aria-hidden="true" title="资源高亮" @click="jumpRes(item.uuid)"></i>
+                    <i class="fa fa-share" aria-hidden="true" title="跳转到节点" @click="jumpScene(item)"></i>
+                    <i class="fa fa-bolt" aria-hidden="true" title="节点高亮" @click="highlight(item)"></i> -->
+                    <ui-button v-on:confirm="jumpRes(item.uuid)">1</ui-button>
+                    <ui-button v-on:confirm="jumpScene(item)">2</ui-button>
+                    <ui-button v-on:confirm="highlight(item)">3</ui-button>
+                </div>
+            </li>
+        </ul>
+    </section>
+
+</div>

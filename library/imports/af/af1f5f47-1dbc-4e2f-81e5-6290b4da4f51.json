@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "格鲁吉亚",
+    "texture": "c91ad1dc-6553-4201-8578-2832c412a44c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

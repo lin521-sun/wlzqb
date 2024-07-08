@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yinpin",
+    "texture": "6afb2b39-d01d-4870-9bd3-534c97af767d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      149
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      149
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

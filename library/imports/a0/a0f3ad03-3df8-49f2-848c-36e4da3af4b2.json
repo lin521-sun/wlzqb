@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Endpoint",
+    "texture": "734627b7-550a-4a1f-98a6-e9182bfb2767",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

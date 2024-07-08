@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "landi",
+    "texture": "9dae7be3-19d6-422c-b969-01bf0ed2d41a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      671,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      671,
+      117
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shijiebei",
+    "texture": "7999e081-38b7-424c-8148-e664fe5421d4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      469,
+      393
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      469,
+      393
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

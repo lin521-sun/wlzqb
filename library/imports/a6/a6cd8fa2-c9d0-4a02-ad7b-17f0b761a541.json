@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "微信图片_20240413111402",
+    "texture": "9e961127-c8cb-41be-8080-4a54f3085f93",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

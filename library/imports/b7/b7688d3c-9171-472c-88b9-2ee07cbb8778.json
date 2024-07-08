@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "波兰",
+    "texture": "bfc71365-3b92-42e9-93ff-60b1b0b98a1b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chuanqiu",
+    "texture": "82e350f4-65c4-4c02-8b48-3dc3c51a3715",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      151
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      151
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

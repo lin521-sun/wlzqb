@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UKR",
+    "texture": "4e89db4d-69bd-4973-8a6d-638550d2c80f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "德国",
+    "texture": "604dc3b2-569e-417d-a6ae-4c12e5a9bdcb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

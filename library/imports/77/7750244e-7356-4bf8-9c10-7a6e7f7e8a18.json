@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "乌克兰",
+    "texture": "4f57f963-75fd-48d7-a0bb-9100c2fee028",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

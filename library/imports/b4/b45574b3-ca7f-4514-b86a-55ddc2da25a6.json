@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beijingkuang",
+    "texture": "34df83fc-2ba4-446d-b3ba-b866c1d96e60",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      824
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      824
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

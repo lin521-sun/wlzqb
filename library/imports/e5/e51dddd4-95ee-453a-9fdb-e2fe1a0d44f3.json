@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "赛事",
+    "texture": "c8f483f1-0955-40ba-aece-9e9c9f23c0e1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      120
+    ],
+    "offset": [
+      0,
+      6
+    ],
+    "originalSize": [
+      131,
+      132
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

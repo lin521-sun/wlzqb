@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d17ac5b7-8163-428f-852a-5f265e934d10",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 43,
+  "height": 95,
+  "platformSettings": {},
+  "subMetas": {
+    "英格兰": {
+      "ver": "1.0.6",
+      "uuid": "bfce35b5-1613-45c6-81f9-7c7ed1f4ce33",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d17ac5b7-8163-428f-852a-5f265e934d10",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 43,
+      "height": 95,
+      "rawWidth": 43,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

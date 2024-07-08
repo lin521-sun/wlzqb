@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "characterRedFoot7",
+    "texture": "c7088bea-e5fb-4328-bb3a-025947e332fd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      62
+    ],
+    "offset": [
+      -2,
+      0
+    ],
+    "originalSize": [
+      62,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

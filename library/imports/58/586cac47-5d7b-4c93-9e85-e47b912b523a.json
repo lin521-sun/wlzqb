@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiashi",
+    "texture": "0d26aaf6-6b46-476d-b9ad-8a95eb50930a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      149
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      149
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

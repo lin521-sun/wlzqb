@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chuju",
+    "texture": "ff1a5625-edb0-430b-9bef-1b2b5335cadf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

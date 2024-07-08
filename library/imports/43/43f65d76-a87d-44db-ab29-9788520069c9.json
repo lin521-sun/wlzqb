@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "characterBlueFoot1",
+    "texture": "4422eadf-75d6-4e8a-bda2-28533cba5481",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

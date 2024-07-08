@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "入口有礼",
+    "texture": "d0610c61-3ae1-48a8-9b14-50469f3018d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      120
+    ],
+    "offset": [
+      0,
+      6
+    ],
+    "originalSize": [
+      131,
+      132
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

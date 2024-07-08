@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pomen",
+    "texture": "2efc1c58-6090-4909-8670-c344f8b94f55",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      192,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      192,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

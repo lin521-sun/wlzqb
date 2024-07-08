@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "停止录屏",
+    "texture": "e551b219-4a07-42ff-8426-3a0f1d206b64",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      133
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

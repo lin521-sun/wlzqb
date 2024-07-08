@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "黑底渐变",
+    "texture": "5c54c1b6-4bf6-43de-a0c2-522b98214a84",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      748,
+      600
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      748,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

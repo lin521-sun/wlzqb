@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0e8cfc3f-8188-48f7-9a86-b6785edcfa22",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 453,
+  "height": 98,
+  "platformSettings": {},
+  "subMetas": {
+    "传球": {
+      "ver": "1.0.6",
+      "uuid": "045e7e0d-a140-4a1f-b35a-9c0e8e83fac7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0e8cfc3f-8188-48f7-9a86-b6785edcfa22",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 453,
+      "height": 98,
+      "rawWidth": 453,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

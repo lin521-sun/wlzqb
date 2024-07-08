@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蓄力",
+    "texture": "02a4d7ed-3486-4df9-8a98-048b0c1594da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      453,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      453,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "characterRed2",
+    "texture": "c774ba6f-fcb7-4ab0-ba42-c184911ace8e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      42,
+      62
+    ],
+    "offset": [
+      -10,
+      0
+    ],
+    "originalSize": [
+      62,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

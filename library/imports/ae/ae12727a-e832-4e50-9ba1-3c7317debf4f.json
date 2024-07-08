@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "保存到桌面",
+    "texture": "db30e2fb-a7c7-4444-887f-03e7b4a6cbcb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      120
+    ],
+    "offset": [
+      0,
+      6
+    ],
+    "originalSize": [
+      131,
+      132
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beiqiangduan",
+    "texture": "176bc0fa-d065-428e-8419-3d8daab3e996",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      192,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      192,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

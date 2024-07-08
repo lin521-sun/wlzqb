@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "宝箱",
+    "texture": "b9782d1a-d7ae-4277-a59c-65f990a87da1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

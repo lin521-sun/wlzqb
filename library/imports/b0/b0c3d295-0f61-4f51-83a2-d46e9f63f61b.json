@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "振动",
+    "texture": "91adbc5a-8495-4023-a5bd-fb4106ccd643",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

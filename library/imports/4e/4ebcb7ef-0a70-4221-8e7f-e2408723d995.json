@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shangremen",
+    "texture": "25bb3c99-7eda-4cc9-abec-45327bb551c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      141,
+      172
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      141,
+      172
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "玩法",
+    "texture": "7f303bdd-31d8-4f54-a79c-b4d54927b9e9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
